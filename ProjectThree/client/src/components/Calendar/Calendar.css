@@ -1,0 +1,63 @@
+
+@font-face{
+    font-family: "nav";
+    src:url("./EagleLake-Regular.ttf");
+  }
+
+
+#availability {
+margin: 16px;
+padding-top: 42px;
+width: 20px;
+}
+
+.dayOfWeek {    
+    background-color: rgba(201, 175, 154, 0.473);
+ 
+
+}
+
+td {
+    font-family: "nav";
+    font-weight: bold;
+    background-color: rgba(228, 207, 151, 0.705);
+    padding: 1rem;
+    border: 4px rgba(192, 96, 72, 0.418) inset !important;
+
+}
+
+th {
+    background-color: rgba(168, 90, 66, 0.705);
+    padding: 14px;
+    border: 4px rgba(192, 96, 72, 0.418) inset !important;
+    font-family: "nav";
+
+}
+
+
+
+
+
+
+#calendarHomepage {
+    height: 500px;
+    width: 745px;
+    background-color: rgb(128, 0, 0) !important;
+
+    
+}
+
+#calendarTeaserCol {
+    margin-left: 0px !important;
+    background-color: rgb(128, 0, 0) !important;
+    background: url("./calendarabout.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 500px 470px;
+    border: none;
+
+
+}
+/* element.style {
+    border: 2px gray ridge !important;
+} */
